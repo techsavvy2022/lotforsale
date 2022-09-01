@@ -12,7 +12,7 @@ body {
 }
 
 .container-fluid {
-    background-image: url(images/background%20art.jpg);
+    background-image: url("/images/pexels-arın-turkay-1694980.jpg");
     background-size: cover;
     background-repeat: no-repeat
 }
@@ -48,7 +48,7 @@ body {
 }
 .container-fluid .container footer {
    background-image: linear-gradient(45deg, black, white);
-	margin-top: 20px;s
+	margin-top: 20px;
 }
 .container footer .footer-title {
     color: #F4E625;
@@ -89,4 +89,48 @@ footer .row .col-xl-6 {
 }
 form label img {
     display: inline-block;
+}
+
+#apps-nav {
+	background: linear-gradient(120deg, #0cf9e5, #5a84eb);
+}
+.container-fluid .container .text-center.text-capitalize {
+	background: linear-gradient(120deg, #0cf9e5, #5a84eb);
+}
+.container-fluid .container footer {
+	background: linear-gradient(120deg, #0cf9e5, #5a84eb);
+}
+
+.footer-reserved {
+	color: #ffff;
+}
+
+.footer-title {
+	padding-top: 10px;
+	margin-bottom: -10px;
+}
+
+#contact-id{
+    margin-left: 5px;
+    width: 100%
+}
+.container-fluid .container #contact-id {
+    background-color: #4D4D4D;
+}
+
+.contact-info {
+	color: #fff
+}
+
+h5, h3 {
+	color: #fff
+}
+
+.main-info {
+ padding-left: 10px;
+	padding-top: 10px;
+}
+
+.logo-big {
+	padding-top: 10px
 }
